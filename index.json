@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "path-to-error",
+  "versions": [
+    {
+      "commit": "097ed8772815ab6a676ebf3998b6de4770af090d",
+      "tag": "0.1.20",
+      "parsed_at": "2026-11-22T21:20:58.158963+00:00"
+    }
+  ]
+}
